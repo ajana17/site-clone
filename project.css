@@ -118,7 +118,7 @@
 
 /*big image*/
 .main {
-    background-image: url("Amazon.jpg");
+    background-image: url("bg.jpg");
     background-size: cover;
     height: 300px;
     display: flex;
